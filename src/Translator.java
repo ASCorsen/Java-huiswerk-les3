@@ -10,9 +10,7 @@ public class Translator {
         }
     }
 
-    public Translator(HashMap<Integer, String> numericAlpha) {
-        this.numericAlpha = numericAlpha;
-    }
+
 
 
 
